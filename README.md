@@ -24,5 +24,5 @@ pip3 install -r requirements.txt
 
 ## 6. Run pdf_to_json.py file
 ```bash
-python pdf_to_json.py
+python3 pdf_to_json.py
 ```
