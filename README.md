@@ -20,7 +20,6 @@ conda activate senzmateOCR
 ## 5. Install the dependencies
 
 # If you have CUDA 9 or CUDA 10 installed on your machine, please run the following command to install
-
 ```bash
 python -m pip install paddlepaddle-gpu -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
