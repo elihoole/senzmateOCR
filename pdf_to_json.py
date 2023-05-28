@@ -1,6 +1,5 @@
-from paddleocr import PaddleOCR, draw_ocr
+from paddleocr import PaddleOCR
 import pandas as pd
-from glob import glob
 import json
 import re
 
