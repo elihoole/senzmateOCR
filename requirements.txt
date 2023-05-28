@@ -1,6 +1,1 @@
-pytesseract
-tabula-py
-pdfminer.six
-pdf2image
-ipython
-jupyter
+paddleocr
