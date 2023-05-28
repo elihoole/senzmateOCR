@@ -31,6 +31,11 @@ python -m pip install paddlepaddle -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```bash
 pip install "paddleocr>=2.0.1" # Recommend to use version 2.0.1+
 ```
+### Force install pymupdf<=1.19.0
+```bash
+pip install "pymupdf==1.19.0" # Recommend to use version 2.0.1+
+
+```
 ## 6. Run pdf_to_json.py file
 ```bash
 python3 pdf_to_json.py
