@@ -3,7 +3,7 @@
 ## 1. Clone the repo
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/elihoole/senzmateOCR.git
 ```
 ## 2. Add 'Sample_For_Assignment.pdf' file to the local repository
 
